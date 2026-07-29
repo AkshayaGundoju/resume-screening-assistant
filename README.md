@@ -83,7 +83,23 @@ streamlit run app.py
 
 ## 📷 Application Preview
 
-(Add screenshots here after taking them.)
+## 📷 Application Preview
+
+### Home Page
+
+![Home](Screenshots/home page.png)
+
+---
+
+### Prediction Result
+
+![Prediction](Screenshots/prediction result.png)
+
+---
+
+### Extracted Resume Text
+
+![Extracted Text](Screenshots/extracted text.png)
 
 ---
 
