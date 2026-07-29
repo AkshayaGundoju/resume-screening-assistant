@@ -77,11 +77,8 @@ git clone <repository-url>
 cd resume-screening-assistant
 pip install -r requirements.txt
 streamlit run app.py
-```
 
 ---
-
-## 📷 Application Preview
 
 ## 📷 Application Preview
 
